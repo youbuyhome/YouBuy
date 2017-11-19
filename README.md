@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Bem Vindo ao YouBuy
 
-You can use the [editor on GitHub](https://github.com/youbuyhome/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Com a tecnologia facilitando cada vez mais a vida das pessoas é interessante como as compras mensais ainda são feitas do modo antigo, enfrentando fila e muitas vezes esquecendo o que comprar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mesmo como um dos setores mais importantes da sociedade atual e com investimentos consideráveis de grandes mercados criando sites e meios de fidelizar os clientes essa situação não parece ter mudado e tudo indica que isso se deve ao modo como esse serviço está organizado e ao modo de entrega de recursos para que os clientes tenham uma experiência rica, fácil e efetiva para consumir esse serviço de forma fácil e eficaz.
 
-### Markdown
+Com a intenção de resolver pelo menos um dos problemas citados (sites de dificil navegação), iniciamos um projeto na faculdade visando criar o centro de uma plataforma que deve prover métodos mais eficazes de fornecer serviços de compras online inicialmente em mercados.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A longo prazo essa parte central deve poder se integrar com tencologias mais amigáveis que gerem automaticamente listas de compras antecipando as necessidades do cliente e mantento um histórico para que seja fácil saber o qeu está faltando em casa e onde é o local mais barato ou com horário mais conveniente de entrega por exemplo.
 
-```markdown
-Syntax highlighted code block
+Como a plataforma já nesceu com a intenção de usar microserviços novas funcionalidades como IoT podem facilmente serem integradas ao sistema no futuro, assim como eventuais novas tecnologias.
 
-# Header 1
-## Header 2
-### Header 3
+Este é um projeto aberto que visa criar essa parte central e possibilitar que no futuro novas idéias sejam implementadas.
 
-- Bulleted
-- List
+### Quer participar
 
-1. Numbered
-2. List
+Estamos iniciando o projeto e criando um backlog que deverá ser disponibilizado em breve mas se já encontrou algo legal para implementar entre em contato e mande um pull request.
 
-**Bold** and _Italic_ and `Code` text
+### Projetos atuais
 
-[Link](url) and ![Image](src)
-```
+[api-user](https://github.com/LeonardoAndriotti/api-user)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[api-product](https://github.com/RenatoSoutoMaior/api-product)
 
-### Jekyll Themes
+[api-client](https://github.com/LeonardoAndriotti/client)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/youbuyhome/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[core](https://github.com/LeonardoAndriotti/core)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Contato
+
+EStamos trabalhando para solucionar alguns problemas e criar o futuro se tiver algumas [sugestões](https://github.com/issues?user=youbuyhome) estamos ansiosos para ouvi-la!
